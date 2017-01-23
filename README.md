@@ -1,2 +1,3 @@
 # Y-chromosome
-This directory contains the perlscript used for Carter and Sanford (2017) An Overview of Human Y Chromosome Diversity
+This directory contains the perlscript used for Carter and Sanford (2017) An Overview of Human Y Chromosome Diversity.
+The directory structure is specific to one computer, so adjustments will have to be made locally. The main subroutine for the ancestral state reconstruction is in the subroutine "Internal Nodes", which is the first subroutine after "Main". Other subroutines may or may not be useful to the reader, and at least several of them were not used in the final preparation for the paper. This is a working file, so entire sections might be commented out. We tried to make this as non-perlish as possible so others could read it more easily. Use at your own discretion.
